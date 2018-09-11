@@ -21,7 +21,7 @@ python classify.py [path to image — relative to the script]
 
 ## Tested Operating Systems
 
-- macOS High Sierra (10.13.6)
+- macOS 10.13.6
 
 ## License
 
