@@ -2,6 +2,8 @@
 
 Granite is a lightweight, pre-trained MobileNet model for detected cracks on concrete walls, slabs, pavements and other stuctures made of concrete. This pre-trained model was created using transfer learning and has a validation accuracy of 99.95 %. The model was trained on the [Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/1) from Medeley.
 
+Scripts written and trained by Nikhil Raghavendra (@nikhilraghava).
+
 ## Pre-requisites
 
 - This repository
@@ -23,4 +25,4 @@ python classify.py [path to image — relative to the script]
 
 ## License
 
-Licensed under [MIT License](https://github.com/TeamSudoCoders/Granite/blob/master/LICENSE)
+Licensed under [MIT License](https://github.com/TeamSudoCoders/Granite/blob/master/LICENSE). Copyright (c) 2018 s u d o _
