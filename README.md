@@ -25,4 +25,4 @@ python classify.py [path to image — relative to the script]
 
 ## License
 
-Licensed under [MIT License](https://github.com/TeamSudoCoders/Granite/blob/master/LICENSE). Copyright (c) 2018 s u d o _ . All rights reserved.
+Licensed under [MIT License](https://github.com/TeamSudoCoders/Granite/blob/master/LICENSE).
