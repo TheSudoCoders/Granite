@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamSudoCoders/Granite)    [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SudoFoundry/Granite) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # Granite
 
 Granite is a lightweight, pre-trained MobileNet model for detected cracks on concrete walls, slabs, pavements and other stuctures made of concrete. This pre-trained model was created using transfer learning and has a validation accuracy of 99.95 %. The model was trained on the [Concrete Crack Images for Classification](https://data.mendeley.com/datasets/5y9wdsg2zt/1) from Medeley.
